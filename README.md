@@ -28,3 +28,4 @@ __응 맞아__
 ```python
 print("Hello, World!")
 ```
+`>` 이것은 불쌍한 고양이다
